@@ -1,0 +1,5 @@
+79 Gold Au transition_metal 196.97 2 8 18 32 17 0 0
+47 Silver Ag transition_metal 107.87 2 8 18 18 1 0 0
+29 Copper Cu transition_metal 63.55 2 8 18 1 0 0 0
+6 Carbon C nonmetal 12.01 2 4 0 0 0 0 0
+8 Oxygen O nonmetal 16.00 2 6 0 0 0 0 0

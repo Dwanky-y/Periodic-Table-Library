@@ -1,0 +1,8 @@
+Atomic Num                                  Name      Symbol                                    Group       weight  electrons
+1                                           Hydrogen  H                                          non_metal 1.010000 1 0 0 0 0 0 0
+6                                             Carbon  C                                           nonmetal 12.010000 2 4 0 0 0 0 0
+8                                             Oxygen  O                                           nonmetal 16.000000 2 6 0 0 0 0 0
+11                                             Sodium Na                                       alkali_metal 22.989799 2 8 1 0 0 0 0
+29                                             Copper Cu                                   transition_metal 63.549999 2 8 18 1 0 0 0
+47                                             Silver Ag                                   transition_metal 107.870003 2 8 18 18 1 0 0
+79                                               Gold Au                                   transition_metal 196.970001 2 8 18 32 17 0 0
